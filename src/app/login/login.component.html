@@ -1,0 +1,12 @@
+<h1>LOGIN</h1>
+<p>INGRESE USUARIO</p>
+
+
+<p>Usuario</p>
+<input type="text" [(ngModel)]="user">
+<p>Contraseña</p>
+<input type="text" [(ngModel)]="pass">
+
+<button (click)="Ingresar()">Ingresar</button> <br><br>
+
+{{estadoError}}
