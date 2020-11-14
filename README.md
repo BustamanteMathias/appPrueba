@@ -1,15 +1,15 @@
-<h1><strong> 🍕 RESTO BAAL - PPS2020 🍕</strong></h1><br><br>
+<h1><strong> 🍕 RESTO BAAL - PPS2020 🍕</strong></h1>
 
-<h3><strong>🍻 INTEGRANTES 🍻</strong></h3>
 <pre>
-  Bustamante Mathias Andres <br>
-  Galarza Lautaro Nazareno <br>
-  Axel Ghio <br>
-</pre>
+<h3><strong>🍻 INTEGRANTES 🍻</strong></h3>
+Bustamante Mathias Andres <br>
+Galarza Lautaro Nazareno <br>
+Axel Ghio <br>
 <h3>BRANCHS</h3>
 MATHI <br>
 LAUTI <br>
 AXELTEST <br>
+</pre>
 
 <h3><strong>SPRINTS</strong></h3>
 
