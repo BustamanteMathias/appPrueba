@@ -5,10 +5,6 @@
 🍻Bustamante Mathias Andres <br>
 🍻Galarza Lautaro Nazareno <br>
 🍻Axel Ghio <br>
-<h3>BRANCHS</h3>
-🔀MATHI <br>
-🔀LAUTI <br>
-🔀AXELTEST <br>
 </pre>
 
 <h3><strong>SPRINTS</strong></h3>
