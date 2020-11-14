@@ -39,10 +39,8 @@
 ✅Pantalla de acciones pendientes por sector (Mozo, Metre, Cocinero y Bartender)<br>
 ✅Avance de flujo completo de pedido (Buscar mesa, asignacion, pedido de productos y detalle)<br>
 ✅Listado de productos para agregar al pedido<br>
-✅Envio de mails (para los casos solicitados)<br>
 ✅Detalle de pedidos<br>
 ✅Pedidos finalizados<br>
 ✅Solicitar cuenta<br>
 ✅Propina<br>
 ✅Envio de notificaciones por sector + pantalla de visualizacion de notificaciones<br>
-✅Ajustes de bugs<br><br>
